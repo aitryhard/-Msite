@@ -1,9 +1,50 @@
-body{
-    width: 100%;
-    margin: 0px;
-    background-color: rgb(250, 228, 200);
+.menu{
+    width: 40px;
+    height: 40px;
 }
 
-.perviy{
-    height: 662px;
+body{
+    background-color: bisque;
+    margin: 0px;
+}
+
+nav{
+    font-family: 'Intro Friday';
+    font-weight: 400;
+    font-size: 20px;
+    display: flex;
+    background-color: white;
+    position: sticky;
+    justify-content: space-between;
+}
+
+ul{
+    list-style: none;
+    margin: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    width: 100%;
+}
+
+.textLi{
+    padding-top: 10px;
+    padding-left: 2%;
+    display: inline-block;
+}
+
+.menuLi{
+    padding-top: 2px;
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+@font-face {
+    font-family: 'Intro Friday';
+    font-display: swap;
+    src: url(fonts/IntroFriday.ttf) format('.ttf')
 }
