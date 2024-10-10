@@ -53,7 +53,7 @@ a{
 @font-face {
     font-family: 'Intro Friday';
     font-display: swap;
-    src: url(fonts/IntroFriday.ttf) format('.ttf')
+    src: url('fonts/IntroFriday.ttf') format('.ttf')
 }
 
 nav{
