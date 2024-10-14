@@ -51,7 +51,7 @@ a{
 }
 
 nav{
-    font-family: 'Intro Friday';
+    font-family: 'Roboto Slab';
     font-weight: 400;
     font-size: 20px;
     display: flex;
@@ -64,6 +64,11 @@ nav{
 }
 
 @font-face {
-    font-family: 'Intro Friday';
-    src: url('/fonts/IntroFriday.ttf') format('.ttf')
+    font-family: 'Roboto Slab';
+    src: url('fonts/RobotoSlab-VariableFont_wght.ttf') format('.ttf')
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+
+/* Исправить шрифты
