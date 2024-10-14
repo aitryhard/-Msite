@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('fonts/RobotoSlab-VariableFont_wght.ttf') format('.ttf')
+}
+
 .menu{
     width: 40px;
     height: 40px;
@@ -63,12 +70,6 @@ nav{
     justify-content: space-between;
 }
 
-@font-face {
-    font-family: 'Roboto Slab';
-    src: url('fonts/RobotoSlab-VariableFont_wght.ttf') format('.ttf')
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
 
 /* Исправить шрифты
