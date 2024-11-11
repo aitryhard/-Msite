@@ -11,7 +11,7 @@
 }
 
 body{
-    background-color: bisque;
+    background-color: rgb(250, 231, 207);
     margin: 0px;
 }
 
@@ -33,12 +33,12 @@ ul{
 
 .menuLi{
     float: right;
-    background-color: rgb(255, 234, 208);
+    background-color: rgb(255, 240, 223);
     border-radius: 50%;
     padding-left: 6px;
     padding-right: 4px;
     padding-top: 4px;
-    border: 2px solid rgb(239, 193, 136);
+    border: 2px solid rgb(238, 200, 154);
 }
 
 @media (min-width: 600px){
